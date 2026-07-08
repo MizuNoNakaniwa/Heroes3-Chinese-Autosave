@@ -2,6 +2,6 @@
 
 ## 使用方法
 
-1.下载autosave.exe。
+1.下载autosave.exe
 
-2.点开即用。
+2.点开即用
